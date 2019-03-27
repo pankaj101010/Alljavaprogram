@@ -2,7 +2,7 @@ package com.pankaj.testing.java;
 
 public class Firstcapital {
 	public static String MakeUppercase(String w) {
-		String c=" ";
+		string c=" ";
 		for(int j=0;j< w.length();j++) {
 			if(j==0)
 			{
