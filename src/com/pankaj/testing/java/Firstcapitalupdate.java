@@ -2,7 +2,7 @@ package com.pankaj.testing.java;
 
 import java.util.StringTokenizer;
 
-public class Firstcapitalupdate {
+public class firstcapitalupdate {
 
 	public static void main(String[] args) {
 		String name="hello this Is resonentia Technology new generation ".toLowerCase();
@@ -21,7 +21,7 @@ public class Firstcapitalupdate {
 		    		
 		    	}
 		    }
-		    System.out.println(capital);
+		    system.out.println("capital");
 		
 		}
 
