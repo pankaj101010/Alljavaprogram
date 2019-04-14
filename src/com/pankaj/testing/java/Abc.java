@@ -4,10 +4,11 @@ public class Abc {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-       System.out.println("for testing only");
-       System.out.println("second program");
-       System.out.println("ilsdjvlasn");
-       System.out.println("adding new line");
+       String s="T9E2S7T";
+      String [] n = s.split("[0-9]");
+      for (String string : n) {
+		System.out.print(string);
+	}
 	}
 
 }
